@@ -1,0 +1,24 @@
+
+label
+{
+    display: grid;
+    place-items: center;
+
+}
+
+form
+{
+display: grid;
+place-items: center;
+}
+
+h3
+{
+    display: grid;
+    place-items: center;
+}
+
+body
+{
+    background: linear-gradient(45deg, #C7F5FE 10%, #C7F5FE 40%, #FCC8F8 40%, #FCC8F8 60%, #EAB4F8 60%, #EAB4F8 65%, #F3F798 65%, #F3F798 90%);
+}
